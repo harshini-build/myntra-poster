@@ -1,0 +1,8 @@
+project
+  app.py
+  requirements.txt  (inside just write Flask)
+  templates\
+    index.html
+    outfits.html
+    result.html
+    upload.html
